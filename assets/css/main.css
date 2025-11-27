@@ -1416,6 +1416,7 @@ left: 23%;
 
 .CounterPding{
   padding-left: 7%;
+  min-height: 80vh;
 }
 
 .stats h3{
