@@ -1,0 +1,24 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 116 53" width="116" height="53">
+	<title>97</title>
+	<style>
+		tspan { white-space:pre } 
+		.s0 { fill: #151440 } 
+		.s1 { fill: #f58132 } 
+		.t2 { font-size: 4px;fill: #151440;font-weight: 600;font-family: "Montserrat-SemiBold", "Montserrat" } 
+	</style>
+	<g id="Layer_1-2">
+		<g>
+			<g>
+				<path fill-rule="evenodd" class="s0" d="m36.7 43.1l0.1-43.1h7.7l-0.1 43.1z"/>
+				<path class="s0" d="m99.3 9.5q6.8 0 11.6 5 4.8 4.9 4.8 11.9 0 7-4.8 11.9-4.8 5-11.6 4.9-6.6 0-11.3-4.6-4.8-4.6-5.1-11.3h-0.1l0.1-27.3h7.7v12q4-2.5 8.7-2.5zm0 25.8q3.5 0 6.1-2.6 2.6-2.7 2.6-6.4 0-3.6-2.5-6.3-2.6-2.6-6.2-2.6-3.6 0-6.2 2.6-2.5 2.6-2.5 6.3 0 3.7 2.5 6.4 2.6 2.6 6.2 2.6z"/>
+				<path class="s0" d="m63.8 9.4q6.5 0 11.2 4.6 4.7 4.7 5.1 11.3v17.9h-7.7v-2.6q-4 2.6-8.7 2.6-6.8 0-11.6-5-4.8-5-4.8-12 0-7 4.8-11.9 4.8-4.9 11.7-4.9zm-0.1 25.8q3.6 0 6.2-2.6 2.5-2.6 2.5-6.3 0-3.7-2.5-6.3-2.6-2.6-6.2-2.7-3.6 0-6.2 2.6-2.5 2.7-2.5 6.3 0 3.7 2.5 6.4 2.6 2.6 6.2 2.6z"/>
+				<path class="s0" d="m16.6 9.3q6.8 0 11.6 5 4.8 4.9 4.8 11.9v4l-16.6-0.1 0.1-7.9h7.9q-2.4-4.9-7.8-5-3.6 0-6.2 2.6-2.5 2.7-2.5 6.3 0 3.7 2.5 6.4 2.6 2.6 6.2 2.6v8h-1c-4.3-0.3-8-2.1-11-5.4q-4.5-4.8-4.4-11.6 0-7 4.8-11.9 4.8-4.9 11.6-4.9z"/>
+				<path fill-rule="evenodd" class="s1" d="m18.8 33.5v5.7l3.8 3.5 9.9-11.1h-5.2l-5 5.4-3.5-3.5z"/>
+			</g>
+			<text id="EGYPTIAN LABORATORIES KNOWLEDGE BANK" style="transform: matrix(1,0,0,1,0,51.25)" >
+				<tspan x="0" y="0" class="t2">EGYPTIAN LABORATORIES KNOWLEDGE BANK
+</tspan>
+			</text>
+		</g>
+	</g>
+</svg>
