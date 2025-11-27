@@ -1,0 +1,462 @@
+/* new media */
+
+/* ==================================  min-width:991px  and ==========max-width:1024px =========== */
+@media (min-width:992px) and (max-width:1024px) {
+    .blogss{
+      margin-top: -30%;
+      
+    }
+
+    .blogss-img {
+        height: 310px;
+      }
+  
+    .blogss-img img {
+      position: relative;
+      right: -50%;
+      top: -60%;
+    }
+
+    .values .card img {
+        padding:0;
+      }
+
+      .contact .contact-Img img {
+        top: -42%;
+        left: -5%;
+        width: 65%;
+      }
+
+      .contact .info-item i {
+        font-size: 1.6rem;
+        padding: 0 2%;
+      }
+
+      .contact h4 {
+        font-size: 1.2rem;
+      }
+
+      .contact h3 {
+        font-size: 2rem;
+      }
+
+      .contact-title::before {
+        width: 190px;
+        left: 12%;
+      }
+
+      .btnPlay img {
+        top: 12%;}
+
+        .stats img {
+            position: relative;
+            width: 120%;
+          }
+
+          /* portfolio page============================================================================== */
+          #portfolio .portfolio-heroBg {
+            height: auto;
+            }
+
+
+            /* partners */
+
+            #SocialMedia_Posts #logos div{
+               min-height: 15vh;
+               max-height: 20vh;
+          }
+  }
+
+
+  /* @media  ==================================  min-width: 768px ================================== and 
+   ==================================max-width:991px ================================== */
+
+  @media (min-width: 768px) and (max-width:991px)
+  {
+    .stats img {
+      position: relative;
+      width: 100%;
+         }
+
+         .contact .contact-Img img {
+          position: relative;
+          top: 0%;
+          left: -30%;
+          width: calc(100% - 0%);
+        }
+
+        .blogss{
+          margin-top: -45%;
+          
+        }
+
+        .blogss-img {
+          height: 310px;
+        }
+    
+      .blogss-img img {
+        position: relative;
+        right: -34%;
+    top: -50%;
+      }
+
+      .btnPlay img {
+        top: 8%;
+      }
+
+      .swiper-slide {
+        width: 21% !important;
+      }
+
+      /* portfolio page====================== and ===== contact =================================================== */
+#portfolio .portfolio-heroBg {
+  height: auto;
+  }
+
+.contctnme {
+    text-align: right;
+    margin-top: 20%;
+  }
+
+  .contctnme h4::after {
+    height: 125px;
+    right: -11%;
+
+  }
+
+
+   /* partners */
+
+            #SocialMedia_Posts #logos div{
+               min-height: 10vh;
+               max-height: 15vh;
+          }
+
+
+  }
+  
+  /* @media  ==================================  min-width: 768px ================================== and 
+   ==================================max-width:767px ================================== */
+
+   @media (max-width:767px){
+    body{
+      /* text-align: center; */
+    }
+    .hero {
+  min-height: 50vh;
+}
+    .about {
+      background-size: contain;
+      height: 750px;
+    }
+    .about .content, .reels {
+      padding:0;
+    }
+    .about .content::before{
+      width: 410px;
+      height: 123px;
+      left: -40%;
+      top: 40%;
+    }
+
+    .services-titleBack::before, .clients-title::before, .teamabout-titleBack::before {
+      left: 20%;
+      width: 310px;
+    }
+
+    .about .content h3, .services-titleBack h3, .clients-title h3, .reels h3, .teamabout-titleBack h3 {
+      font-size: 3.3rem;
+    }
+
+    .clients {
+      padding-bottom: 33% !important;
+      
+    }
+
+    .swiper-slide {
+      width: 100% !important;
+      margin-right: 18% !important;
+    }
+
+    #services {
+      margin: 0 auto;
+    }
+
+    .clients .swiper-pagination {
+      display: none;
+    }
+
+    .blogss{
+      margin-top: -45%;
+      
+    }
+
+    .blogss-img {
+      height: 310px;
+    }
+
+  .blogss-img img {
+    position: relative;
+    right: 0%;
+top: 0%;
+width: 100%;
+  }
+
+
+  .blogss h1 {
+    font-size: 9.0rem;
+    top: 0%;
+    right: 0;
+    position: relative;
+
+  }
+
+  .contact .contact-Img img {
+    position: relative;
+    left: 0%;
+    width: 100%;
+    top: 0;
+  }
+
+  .contact h3 {
+    font-size: 2.3rem;
+  }
+
+  #aboutpage .starter-section h3 {
+  font-size: 2.3rem;
+}
+
+#teamabout {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-content: space-around;
+  &:img{
+    width: 100% !important;
+  }
+}
+
+  #careerpage .starter-section h3 {
+  font-size: 5vh !important;
+}
+
+  .contact-title::before {
+    width: 190px;
+    height: 96px;
+    left: 19%;
+  }
+
+  .contact, footer {
+    text-align: center;
+  }
+
+  .contactInfo {
+    padding-top: 20%;
+  }
+
+  .values .card img {
+    padding: 0;
+  }
+
+  .stats img {
+    position: relative;
+    width: 100%;
+    
+  }
+
+
+  .stats h3 {
+    text-orientation: none;
+    transform: none;
+    white-space:nowrap;
+    writing-mode: inherit;
+    font-size: 3.1rem;
+    padding-bottom: 12%;
+  }
+
+  .stats .stats-item {
+    margin-left: 15%;
+  }
+  .reels {
+    height: 730px !important;
+    background-position:bottom center;
+    margin-bottom: 53%;
+  } 
+
+ .row.Vides {
+  margin-top: 60%;
+   }
+
+   .row.Vides .col-12 {
+    margin-left: 0;
+   }
+
+  .btnPlay img {
+    right: 27%;
+    top: 48%;
+  }
+
+     /* partners */
+
+            #SocialMedia_Posts #logos div{
+               min-height: 5vh;
+               max-height: 10vh;
+          }
+
+
+  
+}
+  /* portfolio page ======================== and ===============contact page ============================== */
+  @media (max-width:575px){
+    #portfolio .starter-section h3 , #contactpage .starter-section h3{
+      font-size: 4rem;
+    }
+    .contact-title, #contact-address {
+      text-align: center;
+    }
+    .social-links.d-flex {
+      margin-left: 24%;
+    }
+
+    .contctnme h4::after {
+      height: 125px;
+      right: 6%;
+      top: -65%;
+    }
+
+    #contactpage .starter-section h3::after {
+      width: 100px;
+      height: 100px;
+      top: -20%;
+      left: 65%;
+      background-size: contain;
+    }
+
+    #portfolio .starter-section h3::after {
+        background-repeat: repeat;
+      background-size: contain;
+      background-repeat: no-repeat;
+    width: 120px;
+    height: 120px;
+    }
+
+    #portfolio .portfolio-heroBg {
+      height: 23.4vh;
+      top: 10%;
+    }
+    .empty {
+      height: 100px;
+    }
+
+    #portfolio .section{
+      padding: 10px 0;
+    }
+
+#SocialMedia_Posts #logos img {
+  max-width: 60%;
+  min-width: 40%;
+}
+.smallLgo {
+  width: 30%;
+}
+
+
+  }
+
+
+   /* modal portfolio */
+   @media (min-width: 576px) {
+    .modal-dialog {
+      max-width: 80% !important;
+    }
+  }
+
+  @media (max-width:430px){
+    #aboutpage .btn-get-started {
+  font-size: 10px;
+    }
+#casepage .starter-section h3 {
+  font-size: 5vh;
+}
+
+#casepage .casetitless h4 {
+  font-size: 9vh;
+}
+
+
+.container, .container-fluid, .container-lg, .container-md, .container-sm, .container-xl, .container-xxl {
+  padding-right: 9%;
+  padding-left: 6%;
+
+}
+#aboutpage p {
+  font-size: 1.0rem;
+}
+    /* .teamabout img{
+      width: 100%;
+    } */
+
+#casepage .bluetextbg h4 {
+  font-size: 1.5rem;
+}
+
+.casepage {
+  height: 60vh;
+  }
+
+  #casepage .section4-title {
+  margin: 0 6%;
+}
+
+#casepage .section4-title h2::after {
+  top: 20%;
+}
+#casepage .section5-title h2, #casepage .section7-title h2 {
+  font-size: 2.6rem;
+}
+
+#casepage .section7-title .tabs {
+  margin-bottom: 22%;
+}
+
+#casepage .section7-title .tabs p img {
+  left: 41%;
+}
+
+#casepage .section7-title .tabs2 p img {
+  top: 81%;
+}
+
+#casepage .section7-title .tabs2 {
+  margin-bottom: 35%;
+}
+
+#blogsspage .blogsspageDetails ol span, #blogsspage .endBlog dl li, #blogsspage .blogsspageDetails ul li {
+  font-size: 1rem;
+}
+
+#blogsspage .starter-section h3 {
+  font-size: 4rem;
+}
+#blogsspage .blogsspageIntro h2 {
+  font-size: 3rem;
+}
+
+#blogsspage .blogsspageIntro h4 {
+  font-size: 2rem;
+}
+
+ #blogsspage .blogsspageIntro .endBlog h5{
+   font-size: 1.5rem;
+ }
+ #blogsspage .blogsspageIntro .endBlog h5 {
+  width: 69%;}
+
+   #portfolio .portfolio-heroBg {
+    height: 16vh;
+  }
+
+  #blogsspage .starter-section h3::after {
+  background-size: 70%;
+}
+ }
